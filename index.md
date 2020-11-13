@@ -17,7 +17,7 @@
    </header> 
    <!-- Banner --> 
    <section id="banner"> 
-    <div class="inner"> 
+    <div class="binner"> 
      <h2>Minecraft Paty Server</h2> 
      <p>这里是Minecraft Paty Server GF!<br /> YALLAGE<br /> </p> 
     </div> 
