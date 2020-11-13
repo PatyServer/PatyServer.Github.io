@@ -82,7 +82,7 @@
      <header> 
       <h2>Minecraft Paty Server</h2> 
       <p>服务器IP多线地址:Play.PatyServer.xyz</p> 
-      <p>服务器版本:新1.16.3</p> 
+      <p>服务器版本:新1.16.4</p> 
       <p>服务器绝不会容忍任何一个作弊、破坏他人游戏体验的人，我们将对此人进行封禁处理</p> 
       <p>在此我们欢迎您的到来</p> 
      </header> 
