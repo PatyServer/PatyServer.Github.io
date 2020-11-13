@@ -87,7 +87,7 @@
       <p>在此我们欢迎您的到来</p> 
      </header> 
      <ul class="actions vertical"> 
-      <li><a href="http://GF.PatyServer.xyz/" class="button fit special">回到顶部</a></li>
+      <li><a href="https://patyserver.github.io/" class="button fit special">回到顶部</a></li>
       <li><a href="http://Status.Mctalks.com/id-3878.html" class="button fit special">服务器在线状态检测</a></li>
       <li><a href="http://GF.PatyServer.xyz:8888/down/NwjtXJVg5A42" class="button fit special">服务器客户端下载</a></li>
       <li><a href="http://GF.PatyServer.xyz:8888/down/UNtmJiErnUSC" class="button fit special">服务器指南下载</a></li>
