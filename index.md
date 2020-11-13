@@ -19,7 +19,7 @@
    <section id="banner"> 
     <div class="inner"> 
      <h2>Minecraft Paty Server</h2> 
-     <p>这里是Minecraft Paty Server!<br /> YALLAGE<br /> </p> 
+     <p>这里是Minecraft Paty Server GF!<br /> YALLAGE<br /> </p> 
     </div> 
     <a href="#one" class="more scrolly">了解更多</a> 
    </section> 
